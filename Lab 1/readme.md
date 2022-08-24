@@ -1,1 +1,1 @@
-This is for Lab 1.
+*** Instructions for Lab 1 goes here. ***
