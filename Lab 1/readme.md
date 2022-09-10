@@ -10,17 +10,15 @@ The lab description has the step-by-step walkthrough and detailed instruction. H
 * The plaintext, ciphertext and IV provided in Task 2, together with the key you generate in Task 1, are all hexadecimal codes. Conversion may be applied to handle them in your program.
 * The question at the end of Task 4 is optional.
 * The 256-bit key in the last step is supposed to be a binary string (sequence of 0s and 1s of length 256).
-* Please take screenshots periodically and regularly and include them in your report. They not only serve as evidence of completion but also help the grader understand what you're trying to achieve.
-* Please attach your code with adequate explanation for each task in your report to receive full credits.
+* Please take screenshots periodically and regularly and include them in your report. They not only serve as evidence of completion but also help the grader understand what you try to achieve.
+* Please attach your code with adequate explanation for each task in your report to receive full credits. See the example for what it should look like.
 
 ## Points Break Down
 This lab has 40 points in total. Task 1 through Task 5 are worth 5, 15, 5, 5, 10 points respectively.
 
 ## Submission Details
-* This assignment is due on TBD.
-* You can work in a group of up to 3 students (class roster with email addresses posted).
+* You will work in a team.
 * Only one report is needed from each group. Please list group members in your report explicitly.
-* Submit your report at Canvas in one PDF file.
 * Please type your solutions. In general NO hand-written report is accepted.
 
 ## Grading
