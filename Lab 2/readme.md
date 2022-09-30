@@ -12,5 +12,5 @@ In this [lab](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_Encryption/Cr
 This lab has 40 points in total. The five tasks (2, 3, 4, 5, 6.1) are worth 5, 10, 10, 10, 5 points respectively.
 
 ## Grading
-* Completeness (30 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
-* Presentation (10 pts): The report must be clear and correct in organization and writing with adequate explanation.
+* Completeness (25 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
+* Presentation (15 pts): The report must be clear and correct in organization and writing with adequate explanation.
