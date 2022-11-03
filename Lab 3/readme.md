@@ -4,6 +4,7 @@ In this [lab](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_PKI.pdf), you w
 ## Lab Notices
 * Please complete **Tasks 1-4**. You can **skip Tasks 5 and 6**.
 * You may want to change all the company names or domain names with **year 2018, replace the year with 2020** in the lab manual. Most significantly, use SEEDPKILab2020.com instead of SEEDPKILab2018.com.
+* For Task 3 Step 2, you may want to visit https://SEEDPKILab2020.com:4433/ and check the error message.
 * For Task 4, remember to change the content in the file default-ssl.conf (and remove the ➀ and ➁ symbols). You might not be able to access two.example.com because the corresponding DocumentRoot does not exist. You can set the ServerName to SEEDPKILab2020.com, DocumentRoot into /var/www/html and DirectoryIndex into index.html to see Apache server works. You will get the default page once successful
 * Include screenshots you catch in your report, maybe some explanation is required. They not only serve as evidences of completion but also help the grader understand what you're trying to achieve.
 
