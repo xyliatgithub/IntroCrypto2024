@@ -3,7 +3,8 @@ In this [lab](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_Encryption/Cr
 
 ## Lab Notices
 * You can skip **Tasks 1, 6.2, 6.3 and 7**– frequency analysis against monoalphabetic substitution cipher and programming using the crypto library. This will reduce some workload.
-* You can use any bmp file you found for Task 3 as long as you can see the differences between it is ECB and CBC encrypted. Though [lena](https://github.com/Yu-Tsern/EN.650.658/blob/master/lab/lena_color.gif) is the standard testing image, it is not a good choice in this lab due to its complexity. Use some simple image that has large areas of same colors instead. The header of pictures encrypted by ECB and CBC should be the same.
+* The original image, 'pic_original.bmp', is available in this GitHub repository. It corresponds to the image required for Task 3.
+* You can use any **bmp file** you found for Task 3 as long as you can see the differences between it is ECB and CBC encrypted. Though [lena](https://github.com/Yu-Tsern/EN.650.658/blob/master/lab/lena_color.gif) is the standard testing image, it is not a good choice in this lab due to its complexity. Use some simple image that has large areas of same colors instead, such as legoshi.bmp. The header of pictures encrypted by ECB and CBC should be the same.
 * For Task 5, you should consider the decryption processes for ECB, CBC, CFB and OFB.
 * Include screenshots, codes, IVs, keys you use in your report.
 * Take screenshots periodically and include it in your report. They not only serve as evidences of completion but also help the grader understand what you're trying to achieve.
