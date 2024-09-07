@@ -1,9 +1,11 @@
 ## Lab 1 - Pseudo Random Number Generation
 In this [lab](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_Random_Number/Crypto_Random_Number.pdf), you will apply your knowledge in class to find out some interesting facts and do some experiments on crypto programming. You need to complete all the five tasks in this lab and submit a detailed lab report, with screenshots, to describe what you have done and what you have observed with necessary explanation. Please include important code snippets followed by explanation. Simply attaching code without any explanation will receive no credits.
 
+
+## Lab Enviroment
 The lab is one of the exercises in SEED Project. It uses a Virtual Machine (VM) [image](https://seedsecuritylabs.org/labsetup.html) in order to simplify the experiment setup. We are using the Ubuntu 20.04 image for this lab. Load the VM image with your VirtualBox or VMware (whichever you prefer). [Here](https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md) is the manual to install the VM on your computer. Please read the VM [User Manual](https://web.ecs.syr.edu/~wedu/seed/Documentation/Ubuntu16_04_VM/Ubuntu16_04_VM_Manual.pdf) (which is for an older version, but basically same) carefully before you start working on the labs.
 
-## Special Notice for Non-x86 Chip
+### Special Notice for Non-x86 Chip
 A computer with a Non-x86 Chip(Apple M chips, Snapdragon) may not be able to use the pre-build SEED Lab Ubuntu20.04 image.
 * SEED Lab provided special instruction for [Apple Silicon Machine](https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md)
 * If you are using a chip with arm architecture, you could download UTM instead of virtual box. You need to create a VM from scratch. Follow this [link](https://mac.getutm.app/gallery/ubuntu-20-04) and download ths iso from [here](https://cdimage.ubuntu.com/releases/20.04/release/). Also, you need to follow the [steps](https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-from-scratch.md) of building from scratch in Seed. (Remember to correct your local time in VM, otherwise you might get the wrong answers for this lab.)
