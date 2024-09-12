@@ -44,7 +44,7 @@ This lab has 40 points in total. Task 1 through Task 5 are worth 5, 15, 5, 5, 10
 
 ## Submission Details
 * You will work in a team.
-* Only one report is needed from each group. Please list group members in your report explicitly.
+* Only one report is accepted from each group. Please list group members in your report explicitly.
 * Please type your solutions. In general NO hand-written report is accepted.
 
 ## Grading
