@@ -3,7 +3,7 @@ In this [lab](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_Encryption/Cr
 
 ## Lab Notices
 * You can skip **Tasks 1, 6.2, 6.3 and 7**– frequency analysis against monoalphabetic substitution cipher and programming using the crypto library. This will reduce some workload.
-* Container setup is not required. You may ignore the *2 Lab Environment* of the lab manual.
+* Container setup is not required. You may ignore section *2 Lab Environment* of the lab manual.
 * The original image, [pic_original.bmp](https://raw.githubusercontent.com/xyliatgithub/IntroCrypto2024/main/Lab%202/pic_original.bmp), is available in this GitHub repository. It is the image mentioned for Task 3.
 * You can use any **bmp file** you found for Task 3 as long as you can see the differences between it is ECB and CBC encrypted. Though [lena](https://github.com/Yu-Tsern/EN.650.658/blob/master/lab/lena_color.gif) is the standard testing image, it is not a good choice in this lab due to its complexity. Use some simple image that has large areas of same colors instead, such as [legoshi.bmp](https://raw.githubusercontent.com/xyliatgithub/IntroCrypto2024/main/Lab%202/legoshi.bmp). The header of pictures encrypted by ECB and CBC should be the same.
 * For Task 5, you should consider the decryption processes for ECB, CBC, CFB and OFB.
@@ -12,6 +12,11 @@ In this [lab](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_Encryption/Cr
 
 ## Points Breakdown
 This lab has 40 points in total. The five tasks (2, 3, 4, 5, 6.1) are worth 5, 10, 10, 10, 5 points respectively.
+
+Note that **Task Number** is not the same as **Section Number**, for example: 
+> 3 Task 1
+
+Task 1 in under Section 3. Follow the **Task Number**
 
 ## Grading
 * Completeness (25 pts): All the steps as instructed in the lab manual must be included in the report with adequate evidence.
