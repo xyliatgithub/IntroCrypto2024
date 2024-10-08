@@ -1,5 +1,3 @@
-## Arm Hardware
-The 
 
 ## Lab 2 - Secret-Key Encryption
 In this [lab](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_Encryption/Crypto_Encryption.pdf), you will apply your knowledge of block cipher modes of operation to find out some interesting facts. You have to complete five tasks in this lab and submit a report describing your works and observations. The lab is one of the exercises in [SEED Project](https://seedsecuritylabs.org/Labs_20.04/Crypto/). It provides Virtual Machine (VM) image in order to simplify setups of experimental environment. We are using the Ubuntu 20.04 image for this lab. Load the VM image with your Virtualbox or VMware, and read the User Manual carefully before you start working on the tasks.
