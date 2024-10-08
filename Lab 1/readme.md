@@ -17,7 +17,8 @@ The lab is one of the exercises in SEED Labs. It uses a [Virtual Machine](https:
 
 ### Apple Silicon (ARM64)
 
-**Important:** VirtualBox does not fully support our SEED Ubuntu 20.04 VM on Apple Silicon machines (M chips). We recommend using **VMware Fusion Player** to set up the lab VM.
+**Currently not support lab 1**: Due to the higher kernel version on Ubuntu 22.04 , the [random number generator](https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/Notes/Crypto.md#random-number) works different on ARM VM 22.04. If you are working on lab 1, we suggest switching to windows or using machines in MSSI lab.      
+**Using VMware Fusion Player**: VirtualBox does not fully support our SEED Ubuntu 20.04 VM on Apple Silicon machines (M chips). We recommend using **VMware Fusion Player** to set up the lab VM.  
 
 1. Download and install [VMware Fusion Player](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html) (free).
 2. Download the [Ubuntu 22.04 ISO image](https://cdimage.ubuntu.com/jammy/daily-live/current/) for the operating system. Be sure to select the **64-bit ARM (ARMv8/AArch64)** version.
