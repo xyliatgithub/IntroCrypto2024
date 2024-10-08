@@ -9,7 +9,7 @@ The lab is one of the exercises in SEED Labs. It uses a [Virtual Machine](https:
 ## Environment Setup
 
 ### Intel/AMD (x86-64)
-
+**Note that the Ubuntu image download link in the instructions no longer works. Download from [here](https://cdimage.ubuntu.com/releases/jammy/release/) instead**
 1. Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
 2. Download the [pre-built SEED Ubuntu 20.04 VirtualBox image](https://seedsecuritylabs.org/labsetup.html).
 3. Follow the [SEED Lab Manual](https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md) to load the VM image in VirtualBox and complete the VM setup.
