@@ -6,7 +6,7 @@ In this [lab](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_Encryption/Cr
 
 ### Intel/AMD Machines x86-64
 
-1. Install VirtualBox first, https://www.virtualbox.org/ if you do not have it already. (Note: VirtualBox is available for most consumer computers, If you have trouble with this step, we encourage you to find a solution by yourself)
+1. Install VirtualBox first, https://www.virtualbox.org/ if you do not have it already. (Note: VirtualBox is available for most consumer computers, If you have trouble with this step, we encourage you to find a solution by yourself.)
 2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md
 3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (for Ubuntu 20.04 VM 64 bits).
 4. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
@@ -14,7 +14,7 @@ In this [lab](https://seedsecuritylabs.org/Labs_20.04/Files/Crypto_Encryption/Cr
 6. Unzip the setup file and start your lab.
 
 ### Apple Silicon Machines ARM64
-**Note that the Ubuntu image download link in the instructions no longer works. Download [22.04.5 LTS](https://cdimage.ubuntu.com/releases/jammy/release/) (No GUI) or [24.10](https://cdimage.ubuntu.com/daily-live/current/) (Use this if you don't know what the previous is) instead**
+**Note that the Ubuntu image download link in the instructions no longer works. You can install (1) [22.04.5 LTS](https://cdimage.ubuntu.com/releases/jammy/release/) (No GUI) or (2) [24.10](https://cdimage.ubuntu.com/daily-live/current/) (Use the second option if you are not familiar with the first) instead. **
 1. Install VMware Fusion first, https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html if you do not have it already. (Note: VMware Fusion is available for Apple Silicon M chiip Macs, If you have trouble with this step, we encourage you to find a solution by yourself)
 2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md
 3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the VM (Ubuntu 22.04).
