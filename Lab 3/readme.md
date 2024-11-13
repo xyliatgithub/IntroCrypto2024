@@ -24,6 +24,8 @@ In this [lab](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_PKI.pdf), you w
 
 ## Lab Notices
 * Please complete **Tasks 1-4**. You can **skip Tasks 5 and 6**.
+### Mix of _SEEDPKILab2018.com_ and _SEEDPKILab2020.com_
+* There is a mix of _SEEDPKILab2018.com_ and _SEEDPKILab2020.com_ in the instruction and example command.
 * You may want to change all the company names or domain names with **year 2018, replace the year with 2020** in the lab manual. Most significantly, use SEEDPKILab2020.com instead of SEEDPKILab2018.com.
 * For Task 3 Step 2, you may want to visit https://SEEDPKILab2020.com:4433/ and check the error message.
 <br>**Hint:** You can use ***chmod 666 /etc/hosts*** to change the file permissions; 
