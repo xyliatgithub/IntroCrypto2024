@@ -31,10 +31,10 @@ In this [lab](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_PKI.pdf), you w
 <br>**Hint:** You can use ***chmod 666 /etc/hosts*** to change the file permissions; 
 <br>&emsp;&emsp; again ***use SEEDPKILab2020.com instead of SEEDPKILab2018.com***
 * For Task 4, remember to change the content in the file default-ssl.conf (and remove the ➀ and ➁ symbols). You might not be able to access two.example.com because the corresponding DocumentRoot does not exist. You can set the ServerName to SEEDPKILab2020.com, DocumentRoot into /var/www/html and DirectoryIndex into index.html to see Apache server works. You will get the default page once successful.
-<br> **Hint:** You can install Apache on your machine by following steps if it doesn't exist:
+<br> **Hint:** You can install Apache on your machine by the following steps if it doesn't exist:
 <br>&emsp;&emsp;&emsp;***sudo apt update***
 <br>&emsp;&emsp;&emsp;***sudo apt install apache2***
-* Include screenshots you catch in your report, maybe some explanation is required. They not only serve as evidences of completion but also help the grader understand what you're trying to achieve.
+* Include screenshots in your report with adequate explanations. They not only serve as evidences of completion but also help the grader understand what you try to achieve.
 
 ## Points Breakdown
 This lab has 40 points in total. The four tasks (1, 2, 3, 4) are worth 5, 9, 12, 14 points respectively.
