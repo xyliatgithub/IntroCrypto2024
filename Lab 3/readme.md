@@ -9,8 +9,7 @@ In this [lab](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_PKI.pdf), you w
 2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/manuals/vm/seedvm-manual.md
 3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the pre-built VM image (for Ubuntu 20.04 VM 64 bits).
 4. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
-5. Download the lab specific zip file (Labsetup.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VirtualBox.
-6. Unzip the setup file and start your lab.
+
 
 ### Apple Silicon Machines ARM64
 **Note that the Ubuntu image download link in the instructions no longer works. You can install (1) [22.04.5 LTS](https://cdimage.ubuntu.com/releases/jammy/release/) (No GUI) or (2) [24.10](https://cdimage.ubuntu.com/daily-live/current/) (Use the second option if you are not familiar with the first) instead.**
@@ -18,8 +17,7 @@ In this [lab](https://seedsecuritylabs.org/Labs_16.04/PDF/Crypto_PKI.pdf), you w
 2. VM setup instructions (read very carefully): https://github.com/seed-labs/seed-labs/blob/master/lab-setup/apple-arm/seedvm-fusion.md
 3. Go to [Lab Environment Setup page](https://seedsecuritylabs.org/labsetup.html) to install the VM (Ubuntu 22.04).
 4. After building the VM, you can start the VM and log in with the username and password provided in the lab setup page.
-5. Download the lab specific zip file (Labsetup-arm.zip) from the [lab page](https://seedsecuritylabs.org/Labs_20.04/Web/Web_XSS_Elgg/). You can download it directly on the VM or download it on your host machine and transfer it to the VM using the shared folder feature of VMware Fusion.
-6. Unzip the setup file and start your lab.
+
 
 
 ## Lab Notices
